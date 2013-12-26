@@ -1,5 +1,5 @@
 ---
-title: 
+title: 生活点滴
 layout: page
 ---
 
