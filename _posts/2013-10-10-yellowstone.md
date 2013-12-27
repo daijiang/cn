@@ -15,7 +15,7 @@ author: 一鸥
 第一天行程：麦迪逊----badlands circle ten露营地
 地球人都知道，自驾游最忌讳的就是疲劳驾驶。一人开车另外一人补充睡眠是不错的选择。但意外发现许多经典老歌也格外提神。累了，饿了，就随意停靠在休息区，做个简单三明治当午餐，补充汽油，冰和体力。我们的经验是，遇到加油站就一定要加足油，不管多贵。我们的车就是在出大体顿的路上看到4块的油价没有加满，结果导致副油箱飙了好久都没个加油站，好个惊险刺激，最后差点下来推车。从一望无际的玉米地往西，经过西洋参种植地，风车，向日葵海洋，进入荒无人烟的沙漠，真实的体会到了什么是旷野的孤独和西部的荒凉
 
-<a href="http://www.flickr.com/photos/96722728@N04/11577188984/" title="DSC_2112 by daijiang, on Flickr"><img src="http://farm4.staticflickr.com/3714/11577188984_7a210ea220_z.jpg" width="640" height="370" align="middle"></a>
+<a href="http://www.flickr.com/photos/96722728@N04/11577188984/" title="DSC_2112 by daijiang, on Flickr"><img src="http://farm4.staticflickr.com/3714/11577188984_7a210ea220_z.jpg" width="700" height="390" align="middle"></a>
 
 <a href="http://www.flickr.com/photos/96722728@N04/11577189834/" title="DSC_2107 by daijiang, on Flickr"><img src="http://farm4.staticflickr.com/3742/11577189834_e2b0ec0557_z.jpg" width="640" height="370"  align="middle"></a>
 
