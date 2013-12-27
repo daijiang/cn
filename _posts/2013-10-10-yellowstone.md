@@ -5,7 +5,7 @@ categories: [日记]
 tags: [旅游]
 author: 一鸥
 ---
-照片。。。？
+
 >没有什么能够阻挡，你对自由的向往，天马行空的生涯，你的心了无牵挂。
 穿过幽暗的岁月，也曾感到彷徨，当你低头的瞬间，才发觉脚下的路。
 心中那自由地世界，如此的清澈高远，盛开在永不凋零，蓝莲花...
@@ -56,7 +56,7 @@ author: 一鸥
 
 天气炎热，尤其是在热泉区。所以回来的路上我们一遇见溪流，就性喜若狂的跳下嬉水了。有溪流的地方就是绿洲，再远处就是荒芜的黄色植被了。早期的印第安人就是伴水而居，有水的地方就有人家。
 
-<a href="http://www.flickr.com/photos/96722728@N04/11577064773/" title="DSC_2245 by daijiang, on Flickr"><img src="http://farm6.staticflickr.com/5485/11577064773_986935cc4b_z.jpg" width="450" height="640" align="middle"></a>
+<a href="http://www.flickr.com/photos/96722728@N04/11577064773/" title="DSC_2245 by daijiang, on Flickr"><img src="http://farm6.staticflickr.com/5485/11577064773_986935cc4b_z.jpg" width="424" height="640" align="middle"></a>
 
 看完热泉，我们又回到上午的位置，看了夕阳下的lower falls瀑布。由于是近距离看，瀑布的全景已经不能拍下，但是黄昏下的峡谷却是异常的气势雄伟，湍流在峡谷中奔流不止，生生不息。晚安，黄石大峡谷！
 
