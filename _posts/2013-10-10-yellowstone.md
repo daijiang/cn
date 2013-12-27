@@ -56,7 +56,7 @@ author: 一鸥
 
 天气炎热，尤其是在热泉区。所以回来的路上我们一遇见溪流，就性喜若狂的跳下嬉水了。有溪流的地方就是绿洲，再远处就是荒芜的黄色植被了。早期的印第安人就是伴水而居，有水的地方就有人家。
 
-<a href="http://www.flickr.com/photos/96722728@N04/11577064773/" title="DSC_2245 by daijiang, on Flickr"><img src="http://farm6.staticflickr.com/5485/11577064773_986935cc4b_z.jpg" width="370" height="640" align="middle"></a>
+<a href="http://www.flickr.com/photos/96722728@N04/11577064773/" title="DSC_2245 by daijiang, on Flickr"><img src="http://farm6.staticflickr.com/5485/11577064773_986935cc4b_z.jpg" width="450" height="640" align="middle"></a>
 
 看完热泉，我们又回到上午的位置，看了夕阳下的lower falls瀑布。由于是近距离看，瀑布的全景已经不能拍下，但是黄昏下的峡谷却是异常的气势雄伟，湍流在峡谷中奔流不止，生生不息。晚安，黄石大峡谷！
 
@@ -68,7 +68,7 @@ author: 一鸥
 
 最准时喷水的就是老忠实了，也不枉叫这个名字。我们去的时候等了不到十分钟就喷水了，伴随着蒸气，共持续了4分钟左右，水势高达40米，水量充沛。不过据说老忠实也真是老了，没有以前那样准时了，喷的水量也开始下降。原因就在于热点北移了。说不定以后再来的时候，大自然又有新的面貌了。
 
-<a href="http://www.flickr.com/photos/96722728@N04/11577063033/" title="DSC_2336 by daijiang, on Flickr"><img src="http://farm4.staticflickr.com/3669/11577063033_0b8877f00a_z.jpg" width="370" height="640" align="middle"></a>
+<a href="http://www.flickr.com/photos/96722728@N04/11577063033/" title="DSC_2336 by daijiang, on Flickr"><img src="http://farm4.staticflickr.com/3669/11577063033_0b8877f00a_z.jpg" width="424" height="640" align="middle"></a>
 
 看完一天地热，顾不得疲惫，我们回营地，捡柴，生火，洗菜做饭。晚餐有烤牛排，意面，西红柿炒蛋。晚餐是我们最欢乐的时光，大家协力合作，自己亲自烧的柴火，做出饭菜都觉得特别香。我们的小弟在这次野外生活中厨艺见长，也获得了一个“咸蛋王”的称号。几天的野外生活还真让我们学会了不少，有一次下雨，我们的火依旧烧的非常旺！还有就是意外发现牛粪最好烧，呵呵。 吃完后伴着营火取暖（晚上的黄石还是有点凉，最低能降到0摄氏度），看满天的繁星，手机别说网络，信号都没有。就这样聊聊天，洗洗睡，简简单单。
 
