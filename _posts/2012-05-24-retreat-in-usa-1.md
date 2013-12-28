@@ -4,6 +4,7 @@ title: 在美国体验retreat
 categories: [日记]
 tags: [人文]
 ---
+作者：戴一鸥
 <p style="text-align: left">美国人喜欢享受生活，当工作累了，觉得需要稍微休息一下的时候，retreat就来了。retreat的字面翻译就是后退，撤退，中文意译成退休会，也蛮有意思，但并不全面，因为并不一定有人真正退休。我的理解是，当工作上的捆绑累得不能前进的时候，就赶紧撤退下来，找个度假胜地，住上个三两天充充电，然后以饱满的热情回到工作岗位上继续奋斗。</p>
 <p style="text-align: left">先前去过的一次retreat是二月份，由Don Waller的实验室成员组织的学术retreat,去了趟威斯康辛州北部，滑雪，交流，开研讨会；这次去的retreat稍有不同，它是由国际学生事工 (International Students Ministry，属于路德教会)赞助，每年一次的为期一周的圣经研讨会（In-Depth Bible Seminar）。</p>
 <p style="text-align: left">此行retreat一共17个国际学生，3个牧师，1个助理。分别拥有不同的国籍，有埃塞俄比亚，埃及，韩国，中国大陆，中国香港，台湾同胞等，也来自不同的美国高校，如密歇根州立大学（Michigan State University）、圣路易斯华盛顿大学（Washington University in St. Louis）、肯特州立大学（Kent State University）、爱荷华州立大学（Iowa State University)、德克萨斯大学奥斯汀分校（The University of Texas at Austin)、威斯康辛州立大学麦迪逊分校（University of Wisconsin in Madison）等等。</p>
