@@ -1,9 +1,15 @@
 ---
 layout: post
-title: Latex test
+title: Latex test 
 categories: [日记]
 tags: [LaTex]
 ---
+Latex的设置是依据[这里](http://rangerway.com/way/2013/10/05/latex-note-and-jekyll/)。
+
+1. 在我的cn文件夹中的`_layout`的`default.html`中添加MathJax library及其设置。
+2. 在主文件夹(github.io)中相应的CSS文件中添加公式的CSS设置。
+3. 在博客正文中需要写公式的地方用``\[...\]``来写行间公式，用``\(...\)``来写行内公式。
+
 #### The Lorentz Equations
 
 `\[
