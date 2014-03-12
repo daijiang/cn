@@ -11,7 +11,7 @@ comments: yes
 - [阳志平](http://www.yangzhiping.com/) 心理学家，有些不错的教程
 - [木遥](http://blog.farmostwood.net/) 文笔很不错的博客
 - [数据博客](http://xccds1977.blogspot.com/) 数据科学与R语言博客
-- 
+
 
 ## 统计
 - [统计之都](http://cos.name) 统计学网站
