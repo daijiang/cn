@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: redcarpet
 permalink: /:year/:month/:day/:title/
 url: http://daijiang.name/cn
 author: 李代江
