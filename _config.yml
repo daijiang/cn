@@ -1,6 +1,5 @@
-markdown: redcarpet
+markdown: kramdown
 permalink: /:year/:month/:day/:title/
 url: http://daijiang.name/cn
 author: 李代江
-highlighter: pygments
-
+# highlighter: pygments
